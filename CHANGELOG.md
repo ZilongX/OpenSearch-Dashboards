@@ -139,3 +139,4 @@ Inspired from [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 Release Notes Test - Breaking Changes
 Release Notes Test - Features/Enhancements
 Release Notes Test - Bug Fixes
+Release Notes Test - Security
