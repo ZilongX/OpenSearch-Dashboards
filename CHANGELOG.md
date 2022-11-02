@@ -140,3 +140,4 @@ Release Notes Test - Breaking Changes
 Release Notes Test - Features/Enhancements
 Release Notes Test - Bug Fixes
 Release Notes Test - Security
+Release Notes Test - Documentation
