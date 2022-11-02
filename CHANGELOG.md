@@ -135,3 +135,5 @@ Inspired from [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 [unreleased]: https://github.com/opensearch-project/OpenSearch-Dashboards/compare/2.3.0...HEAD
 [2.x]: https://github.com/opensearch-project/OpenSearch-Dashboards/compare/2.3.0...2.x
+
+Release Notes Test - Breaking Changes
